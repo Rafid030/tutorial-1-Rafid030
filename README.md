@@ -3,7 +3,7 @@
 Hi! I'm Rafid, a student of SE and want to learn more about the course. 
 
 
-![My Image] C:\Users\ZBook Fury\Downloads\N oEntry.jpg
+![My Image] C:\Users\ZBook Fury\Downloads\NoEntry.jpg
 
 ## GitHub Profile
 
