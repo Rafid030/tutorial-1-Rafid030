@@ -1,41 +1,53 @@
-# Cytoscape Home
+## **Assignment 1 – Documentation Reengineering Task**
 
-Cytoscape Home is the official landing page for the Cytoscape ecosystem — an open-source platform for visualizing complex networks and integrating them with various forms of attribute data. This repository contains the source code for the website’s frontend, built using modern web technologies for speed, maintainability, and ease of contribution.
-
----
-
-## 🌐 Project Purpose
-
-This repository hosts the **homepage and informational website** for the broader Cytoscape project. Its purpose is to:
-
-- Introduce new users to Cytoscape’s tools and capabilities  
-- Provide navigation to downloads, documentation, tutorials, and community resources  
-- Serve as a centralized entry point for the Cytoscape ecosystem  
-- Present a modern, fast-loading, and responsive website
-
-The project does **not** include Cytoscape’s analytics engine or desktop application. Instead, it focuses solely on the website interface.
+### **1. Addressed Issue (1 mark)**  
+The repository lacked proper documentation. The original README was empty and GitHub displayed “No description, website, or topics provided.” This made the project unclear for new contributors, reduced maintainability, and created onboarding difficulties.
 
 ---
 
-## 🛠️ Technology Stack
+### **2. What I Have Reengineered (1.5 marks)**  
+I created a complete `README.md` for the project.  
+The new documentation includes:
 
-The website is built using the following technologies:
+- Project overview and purpose  
+- Explanation of the repository’s role as the Cytoscape website  
+- Technology stack (Vite, TailwindCSS, Node.js)  
+- Local development setup and build instructions  
+- Directory structure  
+- Contribution guidelines  
+- License information  
+- Links to documentation and related resources  
 
-- **Vite** — Next-generation frontend tooling for fast builds  
-- **JavaScript / TypeScript** — Core scripting for UI components  
-- **Tailwind CSS** — Utility-first CSS framework for styling  
-- **Node.js & npm** — Development and build environment  
-- **HTML5** — Static structure for layout and content  
-
-These tools enable clean architecture, fast reload times, and simple contribution workflows.
+This transforms the repository from undocumented to fully documented.
 
 ---
 
-## ⚙️ Getting Started (Local Development)
+### **3. Reengineering Strategy / Approach (1.5 marks)**  
+I used a **Documentation Reengineering Strategy**:
 
-Follow the steps below to run the project locally.
+1. **Reverse Engineering**  
+   - Analyzed the repository structure, build files, configs, and scripts.  
+   - Identified missing documentation gaps and user pain points.
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-fork-user>/cytoscape-home.git
-cd cytoscape-home
+2. **Forward Engineering**  
+   - Rewrote the entire README from scratch using best practices for open-source documentation.  
+   - Added structured sections to cover all aspects that contributors need.
+
+3. **Evolutionary Improvement**  
+   - Improved maintainability without modifying code.  
+   - Created reusable documentation that will help future contributors.
+
+---
+
+### **4. Impact of the Changes (1 mark)**  
+The updated documentation significantly improves:
+
+- Project discoverability  
+- New contributor onboarding  
+- Developer coordination  
+- Long-term maintainability  
+- Professionalism and clarity of the repository  
+
+The README now serves as a complete guide for users and contributors, addressing one of the key weaknesses identified in Tutorial 3.
+
+---
