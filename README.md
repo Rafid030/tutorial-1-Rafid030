@@ -6,8 +6,6 @@ The repository lacked proper documentation. The original README was empty and Gi
 ---
 
 ### **2. What I Have Reengineered (1.5 marks)**  
-I created a complete `README.md` for the project.  
-The new documentation includes:
 
 - Project overview and purpose  
 - Explanation of the repository’s role as the Cytoscape website  
@@ -18,9 +16,7 @@ The new documentation includes:
 - License information  
 - Links to documentation and related resources  
 
-This transforms the repository from undocumented to fully documented.
 
----
 
 ### **3. Reengineering Strategy / Approach (1.5 marks)**  
 I used a **Documentation Reengineering Strategy**:
@@ -48,6 +44,4 @@ The updated documentation significantly improves:
 - Long-term maintainability  
 - Professionalism and clarity of the repository  
 
-The README now serves as a complete guide for users and contributors, addressing one of the key weaknesses identified in Tutorial 3.
 
----
